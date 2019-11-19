@@ -1,4 +1,16 @@
 {
   "name": "reactNativeTestapp",
-  "displayName": "reactNativeTestapp"
+  "displayName": "reactNativeTestapp",
+  "expo": {
+    "packagerOpts": {
+      "assetExts": [".xml", ".png", ".jpg", ".pb", ".tflite"],
+      "sourceExts": [
+        "expo.ts", "expo.tsx",
+        "expo.js", "expo.jsx",
+        "ts", "tsx",
+        "js", "jsx",
+        "json", "wasm"
+      ]
+    }
+  }
 }

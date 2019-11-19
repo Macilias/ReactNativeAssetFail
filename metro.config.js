@@ -14,6 +14,6 @@ module.exports = {
       },
     }),
   },
-  assets: ['./src/assets/ai'],
-  assetExts: ['.xml', '.png', '.jpg', '.pb', '.tflite'],
+  // assets: ['./src/assets/ai'],
+  // assetExts: ['.xml', '.png', '.jpg', '.pb', '.tflite'],
 };
