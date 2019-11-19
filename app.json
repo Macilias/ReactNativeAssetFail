@@ -4,13 +4,7 @@
   "expo": {
     "packagerOpts": {
       "assetExts": [".xml", ".png", ".jpg", ".pb", ".tflite"],
-      "sourceExts": [
-        "expo.ts", "expo.tsx",
-        "expo.js", "expo.jsx",
-        "ts", "tsx",
-        "js", "jsx",
-        "json", "wasm"
-      ]
+      "sourceExts": ["xml", "png", "jpg", "pb", "tflite"]
     }
   }
 }
