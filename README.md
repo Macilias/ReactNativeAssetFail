@@ -11,4 +11,8 @@ The corresponding threads can be found here:
 
 Examples showcasing that it should be working like that:     
 [React-Native Documentation](https://facebook.github.io/react-native/docs/images#Static%20Non-Image%20Resources)   
-[Tutorial ond Medium](https://medium.com/@mehran.khan/ultimate-guide-to-use-custom-fonts-in-react-native-77fcdf859cf4)    
+[Tutorial ond Medium](https://medium.com/@mehran.khan/ultimate-guide-to-use-custom-fonts-in-react-native-77fcdf859cf4)
+
+Threads on the topic:   
+[Require file dynamically by variable](https://github.com/facebook/react-native/issues/6391)    
+[Probably the only way to go](https://stackoverflow.com/questions/37317440/in-react-native-how-do-you-bundle-a-text-file-and-read-its-value-at-runtime)    

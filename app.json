@@ -1,10 +1,7 @@
 {
   "name": "reactNativeTestapp",
   "displayName": "reactNativeTestapp",
-  "expo": {
-    "packagerOpts": {
-      "assetExts": [".xml", ".png", ".jpg", ".pb", ".tflite"],
-      "sourceExts": ["xml", "png", "jpg", "pb", "tflite"]
-    }
+  "packagerOpts": {
+    "config": "metro.config.js"
   }
 }
